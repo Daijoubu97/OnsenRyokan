@@ -1,4 +1,4 @@
-### Hi there 👋
+# 👋Hello / おはよう
 
 
 <div align=center>
