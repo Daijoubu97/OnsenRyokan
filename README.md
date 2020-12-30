@@ -4,7 +4,10 @@
 <div align=left>
 	
 	[![Anurag's github stats](https://github-readme-stats.vercel.app/api?
-	username=RyokanMaster&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+	username=RyokanMaster&show_icons=true&theme=synthwave)]
+	(https://github.com/anuraghazra/github-readme-stats)
+	
+	
 	</div>
 
 <div align=center>
