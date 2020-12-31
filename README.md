@@ -14,7 +14,7 @@
 
 </div>
 
-<div align=right>
+<div border-radius:2em>
 	
 ![](https://img.theqoo.net/proxy/https://i.imgur.com/alYAGFW.gif)
 
