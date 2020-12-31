@@ -9,7 +9,7 @@
 
 <div align=right>
 	
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyokanMaster&show_icons=true&theme=synthwave)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyokanMaster&show_icons=true&theme=synthwave)
 
 </div>
 
