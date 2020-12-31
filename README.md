@@ -12,7 +12,7 @@
 
 ![](https://img.theqoo.net/proxy/https://i.imgur.com/oVANAVk.gif)
 
-<div align=right>
+<div align=right; width:50px; height:50px;>
 
 ![](https://img.theqoo.net/proxy/https://i.imgur.com/alYAGFW.gif)
 
