@@ -1,11 +1,11 @@
 # 👋Hello / おはよう
 
 
-<div align=center>
+<div>
 
-<img src = "https://img.theqoo.net/proxy/https://i.imgur.com/alYAGFW.gif" width="70%" height="70%">
+<img src = "https://img.theqoo.net/proxy/https://i.imgur.com/alYAGFW.gif" width="70%" height="70%"&align=left>
 	
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyokanMaster&show_icons=true&theme=synthwave)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyokanMaster&show_icons=true&theme=synthwave&align=center)
 
 </div>
 
@@ -15,15 +15,7 @@
 
   </div>
 <div>
-
-![](https://img.theqoo.net/proxy/https://i.imgur.com/oVANAVk.gif)
-
-
-
 ![](https://img.theqoo.net/proxy/https://i.imgur.com/QATM0OT.gif)
-
-![](https://img.theqoo.net/proxy/https://i.imgur.com/ubFMOWR.gif)
-
 </div>
 
 	
