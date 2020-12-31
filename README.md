@@ -1,13 +1,9 @@
 # 👋Hello / おはよう
 
 
-<div align=left>
+<div align=center>
 
-<img src = "https://img.theqoo.net/proxy/https://i.imgur.com/alYAGFW.gif" width="60%" height="60%">
-
-</div>
-
-<div align=right>
+<img src = "https://img.theqoo.net/proxy/https://i.imgur.com/alYAGFW.gif" width="20%" height="20%">
 	
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyokanMaster&show_icons=true&theme=synthwave)
 
