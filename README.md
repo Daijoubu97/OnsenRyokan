@@ -12,10 +12,8 @@
 
 ![](https://img.theqoo.net/proxy/https://i.imgur.com/oVANAVk.gif)
 
-</div>
+<div align=right>
 
-<div border-radius:2em>
-	
 ![](https://img.theqoo.net/proxy/https://i.imgur.com/alYAGFW.gif)
 
 </div>
@@ -23,3 +21,8 @@
 ![](https://img.theqoo.net/proxy/https://i.imgur.com/QATM0OT.gif)
 
 ![](https://img.theqoo.net/proxy/https://i.imgur.com/ubFMOWR.gif)
+
+</div>
+
+	
+
