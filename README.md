@@ -3,8 +3,8 @@
 
 <div align="center">
 
-<img src = "https://img.theqoo.net/proxy/https://i.imgur.com/alYAGFW.gif" width="49%" height="49%">
-<img src = "https://img.theqoo.net/proxy/https://i.imgur.com/QATM0OT.gif" width="49%" height="49%">
+<img src = "https://img.theqoo.net/proxy/https://i.imgur.com/alYAGFW.gif" width="50%" height="50%">
+<img src = "https://img.theqoo.net/proxy/https://i.imgur.com/QATM0OT.gif" width="50%" height="50%">
 	
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyokanMaster&show_icons=true&theme=synthwave)
 
