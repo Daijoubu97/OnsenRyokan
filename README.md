@@ -3,7 +3,7 @@
 
 <div align=center>
 
-<img src = "https://img.theqoo.net/proxy/https://i.imgur.com/alYAGFW.gif" width="100%" height="100%">
+<img src = "https://img.theqoo.net/proxy/https://i.imgur.com/alYAGFW.gif" width="60%" height="60%">
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyokanMaster&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
