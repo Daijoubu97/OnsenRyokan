@@ -15,7 +15,7 @@
 
   </div>
 <div>
-![](https://img.theqoo.net/proxy/https://i.imgur.com/QATM0OT.gif)
+	<img src = "https://img.theqoo.net/proxy/https://i.imgur.com/QATM0OT.gif" width="65%" height="65%">
 </div>
 
 	
