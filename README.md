@@ -1,6 +1,6 @@
 # 👋Hello / おはよう
 
-<img src = "https://steamuserimages-a.akamaihd.net/ugc/974352022521652925/2385964DD24DA635F073ADAF1AD5D1566E356C56/" width="100%" height="100%">
+![1532459050_AC_ 20180725-035442  (3)](https://user-images.githubusercontent.com/64956234/103592984-e0e79100-4f37-11eb-82dd-7054ec7500ba.gif)
 
 
 
