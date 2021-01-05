@@ -1,6 +1,7 @@
 # 👋Hello / おはよう
 
 ![1532459050_AC_ 20180725-035442  (3)](https://user-images.githubusercontent.com/64956234/103592984-e0e79100-4f37-11eb-82dd-7054ec7500ba.gif)
+<img src="https://user-images.githubusercontent.com/64956234/103592984-e0e79100-4f37-11eb-82dd-7054ec7500ba.gif" width=100%">
 
 
 
