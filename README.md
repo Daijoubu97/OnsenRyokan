@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src = "https://img.theqoo.net/proxy/https://i.imgur.com/alYAGFW.gif" width="100%" height="100%">
+<img src = "https://img.theqoo.net/proxy/https://i.imgur.com/alYAGFW.gif" width="65%" height="65%">
 
 
 </div>
